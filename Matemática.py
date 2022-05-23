@@ -26,5 +26,5 @@ if escolha1 == (3):
 if escolha1 == (4):
     div1 = int(input("Digite Seu Primero Número: "))
     div2 = int(input("Digite Seu Segundo Número: "))
-    s = div1 / div2 
+    s = div1 // div2 
     print("Resultado: {}".format(s))
